@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <h1>Hi there, I'm Lenar</h1>
-  <h3> Software Engineer and Business Developer from Russia</h3>
+  <h1> Software Engineer and Business Developer from Russia</h1>
 </div>
 
 <div id="header" align="center">
@@ -52,7 +52,7 @@
     title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"
     title="js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     title="js" width="40" height="40"/>&nbsp;
   </a>
 </div>
