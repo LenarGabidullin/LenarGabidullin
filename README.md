@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <h2>Hi there, I'm Lenar</h2>
-  <h1> Software Engineer and Business Developer from Russia</h1>
+  <h2> Software Engineer and Business Developer from Russia</h2>
 </div>
 
 <div id="header" align="center">
