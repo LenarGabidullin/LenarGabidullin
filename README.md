@@ -44,7 +44,7 @@ And my passion is the development of Artificial Super Intelligence. This is a to
     title="js" width="40" height="40"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k8s/k8s-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k8s/k8s-original-wordmark.svg"
     title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
     title="js" width="40" height="40"/>&nbsp;
