@@ -1,5 +1,6 @@
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <div id="header" align="center">
-  <h1>Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Let's make the world a better place together!</h1>
+  <h1>Let's make the world a better place together!</h1>
 </div>
 =============================================================================================================================
 <div id="header" align="center">
