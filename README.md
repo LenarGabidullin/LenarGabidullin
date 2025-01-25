@@ -1,8 +1,8 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <div id="header" align="center">
   <h1>Let's make the world a better place together!</h1>
 </div>
-=============================================================================================================================
+
 <div id="header" align="center">
   <h1>Hi there, I'm Lenar</h1>
   <h3> Software Engineer and Business Developer from Russia</h3>
@@ -39,6 +39,8 @@ And my passion is the development of Artificial Super Intelligence. This is a to
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
       title="js" width="40" height="40"/>&nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-      title="js" width="40" height="40"/>&nbsp; 
+      title="js" width="40" height="40"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg"
+      title="js" width="40" height="40"/>&nbsp;
     </a>
 </div>
