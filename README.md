@@ -14,7 +14,7 @@
 </div>
 
 
-#### Languages and tools
+#### Languages and Tools:
 
 <div id="pictures" align="center">
   <a>
