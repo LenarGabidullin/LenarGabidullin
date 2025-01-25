@@ -1,4 +1,6 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Let's make the world a better place together!
+<div id="header" align="center">
+  <h1>Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Let's make the world a better place together!</h1>
+</div>
 =============================================================================================================================
 <div id="header" align="center">
   <h1>Hi there, I'm Lenar</h1>
@@ -10,7 +12,7 @@ And my passion is the development of Artificial Super Intelligence. This is a to
 
 #### My contacts
 
-| [email](LenarGabidullin251@gmail.com)| [telegram](https://t.me/Lenar_Gabidullin) |
+| [email](lenargabidullin251@gmail.com)| [telegram](https://t.me/Lenar_Gabidullin) |
 |:-----------------:|:------------------------:|
 
 #### Languages and tools
