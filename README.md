@@ -9,13 +9,10 @@
   <h3> Software Engineer and Business Developer from Russia</h3>
 </div>
 
+<div id="header" align="center">
+  <h3> And my passion is the development of Artificial Super Intelligence. This is a tool that provides a more intuitive process of human interaction with programs and helps in decision-making within certain tasks.</h3>
+</div>
 
-And my passion is the development of Artificial Super Intelligence. This is a tool that provides a more intuitive process of human interaction with programs and helps in decision-making within certain tasks.
-
-#### My contacts
-
-| [email](lenargabidullin251@gmail.com)| [telegram](https://t.me/Lenar_Gabidullin) |
-|:-----------------:|:------------------------:|
 
 #### Languages and tools
 
