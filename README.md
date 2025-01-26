@@ -1,11 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, Geeks! I'm Lenar<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
 <div id="header" align="center">
   <h1>Let's make the world a better place together!</h1>
 </div>
 
 <div id="header" align="center">
-  <h2>I'm Lenar</h2>
+  <h2></h2>
   <h2> Software Engineer and Business Developer from Russia</h2>
 </div>
 
