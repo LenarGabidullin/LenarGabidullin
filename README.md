@@ -10,7 +10,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3> And my passion is the development of Artificial Super Intelligence. This is a tool that provides a more intuitive process of human interaction with programs and helps in decision-making within certain tasks.</h3>
+  <h4> And my passion is the development of Artificial Super Intelligence. This is a tool that provides a more intuitive process of human interaction with programs and helps in decision-making within certain tasks.</h4>
 </div>
 
 
