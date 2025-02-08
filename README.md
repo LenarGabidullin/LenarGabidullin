@@ -30,7 +30,7 @@
     title="mlir" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg"
     title="llvm" width="40" height="40"/>&nbsp;
-    <img src="[mlir-logo.png (105x105)] - https://mlir.llvm.org//mlir-logo.png"
+    <img src="https://mlir.llvm.org//mlir-logo.png"
     title="MLIR" width="40" height="40"/>&nbsp;
   </a>  
 </div>
