@@ -20,7 +20,7 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original-wordmark.svg"
     title="js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" 
     title="js" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
     title="js" width="40" height="40"/>&nbsp;
