@@ -19,17 +19,15 @@
 <div id="pictures" align="center">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"      
-    title="cplusplus" width="40" height="40"/>&nbsp;
+    title="Cplusplus" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-    title="c" width="40" height="40"/>&nbsp;
+    title="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    title="python" width="40" height="40"/>&nbsp;
+    title="Python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg"
-    title="julia" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlir/mlir-original.svg"
-    title="mlir" width="40" height="40"/>&nbsp;
+    title="Julia" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg"
-    title="llvm" width="40" height="40"/>&nbsp;
+    title="LLVM" width="40" height="40"/>&nbsp;
     <img src="https://mlir.llvm.org//mlir-logo.png"
     title="MLIR" width="40" height="40"/>&nbsp;
   </a>  
