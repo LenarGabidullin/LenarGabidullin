@@ -18,17 +18,17 @@
 
 <div id="pictures" align="center">
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original-wordmark.svg"
-    title="js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"      
+    title="cplusplus" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-    title="js" width="40" height="40"/>&nbsp;
+    title="c" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    title="js" width="40" height="40"/>&nbsp;
+    title="python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg"
-    title="js" width="40" height="40"/>&nbsp;
+    title="julia" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlir/mlir-original.svg"
-    title="js" width="40" height="40"/>&nbsp;
+    title="mlir" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg"
-    title="js" width="40" height="40"/>&nbsp;
+    title="llvm" width="40" height="40"/>&nbsp;
   </a>  
 </div>
