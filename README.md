@@ -26,9 +26,5 @@
     title="zig" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
     title="bun" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg"
-    title="llvm" width="40" height="40"/>&nbsp;
-    <img src="https://mlir.llvm.org//mlir-logo.png"
-    title="mlir" width="40" height="40"/>&nbsp;
   </a>  
 </div>
