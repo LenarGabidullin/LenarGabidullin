@@ -19,12 +19,12 @@
 <div id="pictures" align="center">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    title="javascript" width="40" height="40"/>&nbsp;
+    title="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    title="typescript" width="40" height="40"/>&nbsp;
+    title="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg"
-    title="zig" width="40" height="40"/>&nbsp;
+    title="Zig" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"
-    title="bun" width="40" height="40"/>&nbsp;
+    title="Bun" width="40" height="40"/>&nbsp;
   </a>  
 </div>
